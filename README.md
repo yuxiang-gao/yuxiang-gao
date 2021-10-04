@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 Yuxiang Gao Here
+![yuxiang-gao's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuxiang-gao&show_icons=true&theme=gruvbox)
 
 <!--
 **yuxiang-gao/yuxiang-gao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
